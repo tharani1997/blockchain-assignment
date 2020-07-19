@@ -1,0 +1,25 @@
+Blockchain  
+Day 1 Assignment 1:-
+
+1.  What is your understanding of Blockchain?
+    	Block chain is the mixture of distributed databases and cryptography.
+	It contains immutable,tamper-resistant, and permanent records.
+	once a record has been added to the chain it is very difficult to change.
+
+
+2.what is the core problem block chain trying to solve?
+	Authenticity and security issues related to internet network can also be solved using the block chain. Mainly it is trying to solve InteInternational Banking 	Crisis that occurred in 2008, and it's trying to eradicate the middle man trend and its main agenda is to build trust among communities.
+
+3.What are the few features which block chai will give you?
+	a)Verifiable.
+	b)Unchangeable.
+	c)Tamper proof.
+	d)Immutable.
+	e)Transparent.
+	f)Decentralized.
+
+4.What all things does a Block contain?
+	Previous Hash Key, Mining Key, Block number, Transaction Records.
+
+5.How is the Verifiability of Blockchain is been attained?
+	It works on the system of the fingerprint. Each block has its own special unique signature, which is stored in the next block too. If the copy of that block 	exists somewhere, its signature is compared, only if it matches, its c concluded that the copy is exactly replicated. if the majority of copies have the same 	signature and the copy has a different one, its v verified that it's been tampered with and hence necessary action is taken. To summarize, so if someone does 	any data modifications in one block, it will be changed into other blocks in the same network. Verification takes place by checking with another blockchain on 	the channel network. Hence verifiability can be achieved by block chain.
